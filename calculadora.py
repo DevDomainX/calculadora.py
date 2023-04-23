@@ -75,6 +75,7 @@ dP   `"   dPYb   88     dP   `" 88   88 88       dPYb
 Yb       dP__Yb  88  .o Yb      Y8   8P 88  .o  dP__Yb
  YboodP dP""""Yb 88ood8  YboodP `YbodP' 88ood8 dP""""Yb
 ''')
+    print("create by: Hans saldias")
     while True:
         print(Fore.YELLOW+'''
         *** CALCULADORA ***
